@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+  <Content>
+    <Paragraph Type="Scene Heading" Number="1">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Over now for special report about the government’s ground-breaking new initiative</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. TV NEWS STUDIO - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A STUDIO PRESENTER sits behind a desk reading the evening news.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>STUDIO PRESENTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Over now to our correspondent for this week’s special report on the government’s ground-breaking new initiative to bring an entire cultural shift in our country to completion. </Text>
+      <Text Size="12">MPs</Text>
+      <Text>, celebrities and key role model figures throughout the political, social and economic spectrum are lining up to champion the campaign to encourage stupidity as a national </Text>
+      <Text Size="12">mindset</Text>
+      <Text> for the next generation. Our reporter has more.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="2">
+      <SceneProperties Length="7/8" Page="1" Title=""/>
+      <Text>INT. POLITICAL EVENT VENUE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A POLITICIAN is giving an impassioned speech to an enamoured CROWD.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>POLITICIAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupidity isn’t just something for a few select people. It’s the basis of our entire culture and political system! And </Text>
+      <Text Size="12">i</Text>
+      <Text> for one, won’t stand by as other countries around the world best us at it and </Text>
+      <Text Size="12">mis-underestimate</Text>
+      <Text> our great nation’s natural reserves of the magic potion that will save our society and economy. You have a right to be stupid! It’s good to be stupid! Stupidity is where our wings take dream! We won’t rest until every child in this country is in a nine to five job, tens of thousands of pounds in debt, eating junk food, voting on talent contests and property programs, totally obedient to authority, with a music collection of manufactured artists, and totally unable to afford a house. Our children need to know that their life is about something we hold dear: buying things they don’t need with money they don’t have to get to an emotional place where there’s nothing there. We will win this fight, if it means we have to barcode and </Text>
+      <Text Size="12">euthanise</Text>
+      <Text> fucking babies. I won’t rest until we can all say together, stupidity is king, and this is a country of stupid people with a stupid culture, producing even more stupid people who think it’s great that we’re so stupid. Will you join me?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="3">
+      <SceneProperties Length="2 3/8" Page="2" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Key MPs are behind the proposals</Text>
+          </Paragraph>
+          <Paragraph>
+            <Text>Solve a lot of our economic problems</Text>
+          </Paragraph>
+          <Paragraph>
+            <Text>Literacy, numeracy over-rated, not needed</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. PARLIAMENT SQUARE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A REPORTER slowly walks by PARLIAMENT.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The government is embarking on a revolutionary new ten-year program that they claim will increase our quality of life, bring hundreds of millions of pounds in savings for stretched public finances, and be an innovative way to solve our ongoing economic problems. They say that the answer to our country’s perpetual decline is... stupidity. The more of it the better. And they’re putting their money right where their mouth is. Ministers are putting forward a whole new series of policies and proposals to promote stupidity, and catalyse the development of it in the nation’s homes, schools and workplaces. You may have already seen the advertising: “dumb is the new cool”, “thinking sucks”, and of course, the controversial “clever equals gay”. With me now are three </Text>
+      <Text Size="12">MPs</Text>
+      <Text> who say they’re right behind the changes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THREE SUITED MEN stand on the lawn: BENJAMIN HALL </Text>
+      <Text Size="12">MP</Text>
+      <Text>, OSCAR JOHNSON </Text>
+      <Text Size="12">MP</Text>
+      <Text>, and HARRY NICHOLLS </Text>
+      <Text Size="12">MP</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Benjamin Hall, tell us more about the proposals and why you support them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">RT</Text>
+      <Text> </Text>
+      <Text Size="12">HON</Text>
+      <Text> BENJAMIN HALL, </Text>
+      <Text Size="12">MP</Text>
+      <Text>”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HALL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupidity is one of our nation’s most precious resources, and a powerful defence against aggressive market forces that are threatening our very way of life. I think what a lot of people don’t realise is that stupidity is a national tradition in Britain going back hundreds of years, even from prefixing politicians with the title “right honourable”. I fully back the government’s new initiative. It’s a bold, radical and courageous new campaign to bring us back to the beating heart of our national identity. We’ve been getting stupider for years, and we owe it to our children to allow them to become as stupid as possible. Life is about buying things you don’t need with money you don’t have, and we need the next generation to fully embrace that for all our benefit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you, Oscar Johnson, also agree.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">RT</Text>
+      <Text> </Text>
+      <Text Size="12">HON</Text>
+      <Text> OSCAR JOHNSON, </Text>
+      <Text Size="12">MP</Text>
+      <Text>”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOHNSON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve had a cultural problem for centuries in Britain that </Text>
+      <Text Size="12">i’m</Text>
+      <Text> glad the government is finally addressing after all these years. Literacy, numeracy and common sense have traditionally been emphasised far too much in our classrooms, and hugely over-rated. As a country, we’ve spent years getting ourselves to the point where none of them are needed anymore. We’re already self-sufficient when it comes to being stupid. I couldn’t agree more, and this campaign to encourage the nation’s idiots is one </Text>
+      <Text Size="12">i</Text>
+      <Text> fully support.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And finally, Harry Nicholls, for you this governmental reform package is something far more than just policies.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">RT</Text>
+      <Text> </Text>
+      <Text Size="12">HON</Text>
+      <Text> HARRY NICHOLLS, </Text>
+      <Text Size="12">MP</Text>
+      <Text>”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NICHOLLS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. In my constituency, </Text>
+      <Text Size="12">i’ve</Text>
+      <Text> seen the far reaching effects of anti-stupidity discrimination and the damage it wreaks on ordinary people who are just by nature, dumb. This is more than just an educational paradigm shift. It’s a blueprint for economic recovery. Being stupider means a simplified life for everyone. Less time wasted on tiring activities like thinking, or voting, and a more practical approach to daily life. One where it’s not all about merit, but about reality. Our children make us proud in how stupid they are becoming. Studies show we’re closing the gap with other world nations that are traditionally rated as a lot more moronic than we are, like the US or France. Stupidity’s already given us revolutions in music, television, </Text>
+      <Text Size="12">healthcare</Text>
+      <Text> and the civil service. It’s time we utilised this universal commodity that we have a surplus of, and not a deficit, and embraced the nonsensical and laughable detritus that makes out country what it is.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="4">
+      <SceneProperties Length="7/8" Page="4" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Suffering because of anti-stupidity prejudice and stigma</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. MENTAL CHARITY OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A CHARITY OFFICER organises her office, but sits to be interviewed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A on-screen title displays “</Text>
+      <Text Size="12">ZOE</Text>
+      <Text> </Text>
+      <Text Size="12">BOLTON</Text>
+      <Text> - FRIENDS OF THE DENSE”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Campaign groups such as Friends of the Dense say they welcome the new proposals, but that more needs to be done to combat prejudice and discrimination against stupid people and stupid behaviour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHARITY OFFICER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupidity has always been an immense source of shame in this country. Doing stupid things is plagued by a stigma that can ruin lives. We hear from people every day who are mocked, lose their jobs, their homes, and even their lives, just because they’re incredibly stupid. It’s deeply unfair to label or discriminate against anyone simply because they’re dumb, or make catastrophic mistakes that have serious consequences for themselves or others, such as their children. We want to see a series of national laws protecting the rights of ordinary people to celebrate that stupidity and not be persecuted for their choices, decisions, or lifestyle. Anti-stupidity prejudice is a very serious problem that won’t go away, and </Text>
+      <Text Size="12">i’m</Text>
+      <Text> glad the government is finally taking it seriously.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="5">
+      <SceneProperties Length="3/8" Page="5" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Daily mail doorstep</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. SUBURBAN HOUSE (DOORSTEP) - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A copy of the DAILY MAIL NEWSPAPER is thrown onto a mat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Part of the new legislation is providing public taxpayer money to subsidise the production and distribution of morally-outraged middle-class conservative newspapers such as the Daily Mail and Daily Express, right to the doorsteps of millions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A copy of the DAILY EXPRESS NEWSPAPER is thrown onto a door mat.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="6">
+      <SceneProperties Length="7/8" Page="5" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>School - celebrity mags, junk food, txt-speak</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. SCHOOL HALLWAYS / LUNCH HALL - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>OFFICIALS hand out dozens of copies of CELEBRITY MAGAZINES to SCHOOLCHILDREN.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Many of the central pillars of the new government reforms centre on the education system. Under the plans, the current academic curriculum in schools will be replaced by a new teaching structure based on gossip, with class examinations measuring the indoctrination levels of children for celebrity magazines, manufactured music, and fad diets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A LITTLE GIRL reads a CELEBRITY MAGAZINE.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Gender-specific tuition will focus on teaching young girls to crave fame, cosmetic surgery and shameless self-promotion, using role models like Katie Price.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In a CLASSROOM nearby, a TEACHER encourages a YOUNG BOY as he writes his HOMEWORK in </Text>
+      <Text Size="12">TXT-SPEAK</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Instead of studying insightful literary classics such as Shakespeare, pupils will be required to communicate using more basic text message language.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Around the corner, SCHOOLCHILDREN pour into the FOOD HALL to receive </Text>
+      <Text Size="12">MACDONALDS</Text>
+      <Text> </Text>
+      <Text Size="12">MILKSHAKES</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And to make it easier for parents, the healthy gourmet menu of nutritionally balanced health food will be replaced by takeaway liquidised junk food that’s easier to eat than burgers and turkey.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="7">
+      <SceneProperties Length="1 1/8" Page="6" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Celebrities on red carpet</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. CELEBRITY RED CARPET EVENT - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FAMOUS PEOPLE walk down a runway as PHOTO FLASHES go off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>B-list celebrities have been literally falling over themselves to endorse the new government campaign and promote stupidity in their fans as a lifestyle choice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A RAPPER with SUNGLASSES stops to be interviewed. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “RAPPER </Text>
+      <Text Size="12">MC-WHACKJOB</Text>
+      <Text>”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WHACKJOB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupidity is cool, </Text>
+      <Text Size="12">y’all</Text>
+      <Text>. Fuck all that thinking bullshit. Drop out, smoke a bowl, and chase some tail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A FEMALE FASHION ICON wearing RIDICULOUS CLOTHES stops to be interviewed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">FLORISSA</Text>
+      <Text> SILVER, SOCIALITE”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SILVER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well </Text>
+      <Text Size="12">i</Text>
+      <Text> was like, </Text>
+      <Text Size="12">woah</Text>
+      <Text>, this is like, cool. I mean, why would you want to, you know, think about stuff? Everything you need’s in the magazines </Text>
+      <Text Size="12">dawg</Text>
+      <Text>, and you go girl! </Text>
+      <Text Size="12">it’s</Text>
+      <Text> like, one of those things when you know when like your boyfriend isn’t a footballer that you’re like, </Text>
+      <Text Size="12">woah</Text>
+      <Text>, wait, stop, what am </Text>
+      <Text Size="12">i</Text>
+      <Text> doing with my life? Dumb is great, </Text>
+      <Text Size="12">cos</Text>
+      <Text> it’s like, so much simpler. I just put on my make-up, push up my </Text>
+      <Text Size="12">tits</Text>
+      <Text> and you know, like, all that voting stuff is just boring, like something </Text>
+      <Text Size="12">i’d</Text>
+      <Text> never do.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A MALE MAGAZINE EDITOR in his fashionable clothes stops to be interviewed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">DYLAN</Text>
+      <Text> GARDINER, </Text>
+      <Text Size="12">IQ-FREE</Text>
+      <Text> MAGAZINE”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GARDINER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, </Text>
+      <Text Size="12">i</Text>
+      <Text> think it’s a fantastic idea. Nowadays our readership is a lot less, you know, smart, than it used to be. We tend to advise against all that complicated stuff you have in committed relationships, and print twenty-three page feature guide articles on the best online pornography websites if our readers want intimacy and fulfilment. Or whatever.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="8">
+      <SceneProperties Length="7/8" Page="7" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Classroom blackboard</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. JUNIOR CLASSROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A TEACHER writes on a BLACKBOARD in front of a classroom of attentive SCHOOLCHILDREN who are copying.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The text reads “EVERYTHING THE AUTHORITIES SAY IS COMPLETELY TRUE, ALL THE TIME.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ministers say they want to target the development of intelligence in early childhood before the damage spreads to early teenage years and beyond. Dumbing down is now... dumbing up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEACHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So let’s note that down. Everything the authorities, and by that we mean the government, military, police and any other benevolent helpful institution that would never be corrupt or lie to you, is completely true all the time. Let’s say it together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILDREN (TOGETHER)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everything the authorities say is completely true, all the time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Campaigners say they want to combat a worrying surge in critical binge-thinking that has emerged in younger people since the advent of the Internet, and documentary programming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Teacher starts writing again. The text on the blackboard reads “EVERYTHING IN THE NEWSPAPERS AND ON TV IS THE TRUTH.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEACHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everything in the newspapers and on TV is the truth. None of them ever lie. And again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILDREN (TOGETHER)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everything in the newspapers and on TV is the truth.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="9">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Port - immigration and religious mania</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. SHIPPING PORT - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER stands in front of a LARGE CRATE that ILLEGAL MUSLIM IMMIGRANTS are escaping from.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One of the strongest arguments for the new change in policy is that it will give ordinary people a fresh sense of catharsis by allowing them to project even more of their frustrations and victim mentality on ethnic minority stereotypes, and of course, blame their pedantic problems on immigration. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="10">
+      <SceneProperties Length="4/8" Page="9" Title=""/>
+      <Text>EXT. CATHOLIC CHURCH - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>CHURCHGOERS flow in and out of a traditional Sunday service behind the REPORTER, who is holding a “</Text>
+      <Text Size="12">FUNDIE</Text>
+      <Text> FUN” banner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And those masochistic economic migrants who still think the streets of England are paved with gold, rather than just good old fashioned shit, will be in great company if they happen to subscribe to a militant organised religion. Thanks to the government’s new “</Text>
+      <Text Size="12">Fundie</Text>
+      <Text> Fun” program, ordinary people will be eligible for tax credits for swapping reason for unquestioning religious fundamentalism. It’s money in the bank if you manage to convince your semi-educated child that your imaginary friend in the sky made the world in six days six thousand years ago, they should morally object to homosexuals on principle, there might be fairies at the end of the garden, and when they die, they’ll end up in another special world.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="11">
+      <SceneProperties Length="1" Page="9" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>City - 9to5, banker sympathy</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. LONDON CITY OFFICE PRECINCT - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SUITED MALE COMMUTERS rush in packs in and out of buildings to scuttle down TUBE ENTRANCES.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And hopefully, the end result of all this effort to reward stupidity will end up like this. Fully-grown adult factory work clones living happier lives as nine to five employees without the painful strain of ambition or individual thought, all organising themselves very effectively to enjoy a peaceful unquestionable hamster wheel life from Monday to Friday, with the weekend spent on meaningful social activities, like buying over-priced alcohol and petrol. Evidence of the private sector’s investment in stupidity is already starting to show it’s real effectiveness on our streets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A CITY EMPLOYEE gives a voxpops interview on the side of the road.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CITY EMPLOYEE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well you know, bankers contribute so much to the economy, that why shouldn’t they be bailed out? I mean, if they want to sexually harass subordinates, </Text>
+      <Text Size="12">ciphon</Text>
+      <Text> funds into offshore companies, gamble other people’s money away and hold an economic gun to the country’s head, why shouldn’t they? They work long hours and deserve to make the twenty times more than anyone else does. It’s a hard and stressful job, and they a lot more important than any other profession. You know, we’re way too hard on them. Charitable, selfless and wonderful people, that are hard done-by. You know, people say doctors and nurses do something important, but that’s just prejudice. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="12">
+      <SceneProperties Length="4/8" Page="10" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Fri/Sat binge drinking, football violence</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. CHEAP PUB - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MEN and WOMEN stumble out of a dirty building steaming DRUNK. Pissing in the road, stripping off clothes, shouting, fighting and falling over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One of the most popular pieces of legislation to be straight out of the gate in next term’s Parliament is the reduction is the universal availability of alcohol, for it’s positive effects on encouraging stupidity. Students and young professionals are to receive additional top-up funding to help them practice all-day weekend binge-drinking and one-night stands, in the hope that if the nation’s young workforce drink, sleep around and fight enough at football matches and chain pubs, stupidity won’t just be the most attractive lifestyle choice, but the basis of an entire culture and an automatic response to tedious things like personal problems, critical thinking and social contribution.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="13">
+      <SceneProperties Length="1" Page="11" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Broadcasters - property programmes</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. TV STUDIO GALLERY - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A TV PRODUCER sits to be interviewed in front of a bank of TV SCREENS.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NARRATOR (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Broadcasters are thrilled with the new governmental campaign, and are planning a massive assault on the nation’s collective </Text>
+      <Text Size="12">IQ</Text>
+      <Text> by filling their schedules with hours of meaningless, tacky celebrity-led programming, property shows, daytime talk and Saturday evening singing contests.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN GRAPHIC READS “LEWIS DUNCAN, CHANNEL FIVE”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m incredibly excited. It’s something we’ve been preparing for and looking forward to for a really long time. Instead of having to commission actually interesting programming with a budget, we can simply broadcast cheap reality shows on a shoestring that viewers can vote on via a premium rate line. I’m thrilled we can really contribute to the collective social advance of the media repeating the government’s press releases word for word, and competing with the </Text>
+      <Text Size="12">BBC</Text>
+      <Text> to dumb down instead of all this silly decades-old wives tale about informed objective journalism, exciting original drama and creative experimentation. Just imagine. It’s going to be a world of video entertainment that you don’t have to think about, question, or even to complain about. Talent shows. Celebrity animal training. Family-friendly sitcoms. Cheesy soap operas. Property renovation. Medical voyeurism. All dressed up by conceited middle class commissioners as being in the public interest and led by viewer demand. Perfect. Well done Prime Minister. Proud to be dumb!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="14">
+      <SceneProperties Length="1 3/8" Page="12" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Voting changed at poll stations</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. POLLING STATION - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER is standing next to an elderly electoral official, Mr. LAMBERT as people walk in and out to VOTE.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now, Mr Lambert, you’re the returning officer for this electoral ward. Tell us how these new processes will affect our democracy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LAMBERT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you. Well for a start, we’ll save hugely on administrative costs simply as less and less people will turn out to vote in the first place, which is great news. And the ones that do quite rightly have better things to do. It’s so much simpler. The new intelligence austerity measures are dream come true for politicians and local elected officials. And why should you vote anyway? Children need to be encouraged from an early age to avoid it all costs, as we only ever get the same government anyway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Pointing at a PAPER SHEET)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Which brings me to a practical example of the new ideas. That’s a newly designed ballot sheet you have there?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>LAMBERT holds up a VOTING SHEET written in BIG TYPE. Instead of the choice of parties, the options are “BIGOTED”, “HYPOCRITICAL”, “BACKWARDS”, “PARENTAL” and so on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LAMBERT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, well as you can see, the choices have been simpler. Now you just make a finger painting or a thumb print of the kind of government you want, instead of voting for a party. They’re all the same party anyway, and you always get the same government regardless, and thankfully nobody’s figured that out yet. So you choose from bigoted, or hypocritical, backwards, parental, and so on. We wanted a box for “God, </Text>
+      <Text Size="12">i</Text>
+      <Text> have no earthly idea, please, for the love of Allah, don’t ask for my input”, but they said it had to be longer to fit on the paper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The government’s doing what it can to prove Churchill right in saying that the best argument against democracy is five minutes with the average voter. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>An indifferent VOTER gives an interview.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VOTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, yeah, like, one vote doesn’t make any different anyway so </Text>
+      <Text Size="12">i’m</Text>
+      <Text> all for it. Never voted, never will.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="15">
+      <SceneProperties Length="1 2/8" Page="13" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>New age centre instead of medicine</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. NEW AGE HEALING CENTRE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER is walking around the hallways as PEOPLE are being given silly TREATMENTS with strange INSTRUMENTS to a background of WHALE MUSIC.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One of the key benefits of the proposals are the costs of providing the spiralling costs of the National Health Service. Surgeons, consultants, doctors and nurses will be replaced by a new nationalised “Foundation for Wellbeing” staffed by a growing army of faith and energy healers, psychics and new age practitioners, with the pharmaceutical budget redirected for investment into homeopathy remedies. All those years spent learning the intricacies of anatomy and physiology, as well the rigours of scientific discipline are thankfully over. Another beneficiary of the reforms will be the police, who will receive extra funding to base all of their enquiries on evidence given by telepathy, ESP and remote viewing. The </Text>
+      <Text Size="12">MPs</Text>
+      <Text> behind the campaign claim stupidity can save lives, and are leading from the front by betting on a whole industry fuelled by it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A NURSE is being interviewed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">JODIE</Text>
+      <Text> LEONARD, FAITH HEALER”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>NURSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hundreds of years worth of stupidity has been ignored because of this self-righteous ignorance around quackery that consistently rejects the importance of actual evidence, and finally, we’re going to get to be as ineffective and bureaucratic as we can be. The potential is limitless.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Reporter turns into an OPEN ROOM labelled “MENTAL HEALTH” where a PATIENT is being interviewed by an ASTROLOGER.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ASTROLOGER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what kind of symptoms have you been experiencing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PATIENT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Confusion. Voices. I can’t seem to summon any energy for anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ASTROLOGER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well that’s because your Capricorn is in Scorpio right now. Your aura is telling me that you need to spend more time with a loved one who needs you. We’ll book you in on Wednesday to rebalance the energy fields around your </Text>
+      <Text Size="12">chakras</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="16">
+      <SceneProperties Length="1 1/8" Page="15" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Rec studio - manufactured music</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. RECORDING STUDIO - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A slimy RECORD EXECUTIVE sits awkwardly in a chair in front of a MIXING DESK.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Music industry executives like Ellis Bradshaw say they are ecstatic, having worked for decades to lower the standards and entry barrier in the arts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “ELLIS BRADSHAW, </Text>
+      <Text Size="12">WARNER-DISNEY</Text>
+      <Text> RECORDS.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRADSHAW</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Economically, stupidity makes enormous sense. For us, promoting real talent is a hundred times harder than artificially creating a </Text>
+      <Text Size="12">pre-teen</Text>
+      <Text> </Text>
+      <Text Size="12">hearthrob</Text>
+      <Text> to snare children and auto-tune their voice to a backing track written by someone we pay ten pounds an hour to. Or manufacturing a chain of mediocre image-driven bands who’ll sell themselves on a plate for fame. We don’t have to scout them with hundreds of pony-tailed, cocaine-addicted A&amp;R perverts, or use places like this. Frankly they make my skin crawl. Look at all these knobs and microphones. What’s the point? If we can save money by generating sounds from a computer and putting make-up on catalogue model musicians that we feed into a chart we’ve already rigged, and keep their copyright for two hundred years after death, it means we’ve got more in the budget for fruit and flowers, OK well, drugs, and lawyers, and of course, prosecuting grandparents without Internet connections for illegal downloading. This government is behind music. With millions of children growing up with TV talent contests, and buying songs like the </Text>
+      <Text Size="12">Teletubbies</Text>
+      <Text> theme tune with their pocket money on a Saturday morning, stupidity has always been the saviour of our industry. And </Text>
+      <Text Size="12">i’m</Text>
+      <Text> glad someone recognised that, because it means we can reinvest in more of the same.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="17">
+      <SceneProperties Length="1 6/8" Page="16" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Credit card spending - mall, economics</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. SHOPPING MALL - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As PEOPLE walk in and out of SHOPS, a MAN walks down the street with a SIGN reading “SHOPPING MAKES EVERYTHING BETTER. KEEP SPENDING.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER is outside a row of CHAIN STORES.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Commercial companies have already rushed in to help and get the economy moving again. Most are fully reliant on stupidity and blind conformity for sales of over ninety per cent of product lines as they have no real practical use in most people’s ordinary lives. The government’s message is spend, spend, spend. When you’re feeling lonely, spend. When you’re happy, spend. Keep spending and spending, and wracking up credit card balances and overdrafts to power the financial services industry along. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns round to see a store with a “CLOSING DOWN” sale.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And they’ve made it easier when the bills come in, to lighten the load on ordinary families really trying their hardest to outdo their neighbours. It’s easy. Just go bankrupt, as it’s now only a year before you can start spending again on store cards with entirely reasonable interest rates of forty per cent and above.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A RETAIL CEO is being interviewed in the street.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE reads “HARLEY ALLEN, </Text>
+      <Text Size="12">BARRELL</Text>
+      <Text> DREGS SUPERMARKETS”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ALLEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stupidity’s critical to the retail sector, in ways most people can’t and don’t understand. Without it, we wouldn’t be able to continually raise prices for ordinary things beyond reasonable levels, like gas, electricity, imported coffee, rail travel, and home furniture. It allows us to maintain a system where prices go higher and higher regardless of supply and demand, and we just explain it’s based on costs. It means we can do less, and charge more. Take trains for example. They get later and later, provide less and less quality, and the tickets go up. Gas companies push prices up in winter, saying demand is high, and then up again in summer, saying demand is low. It’s Christmas come early for the whole consumer market. It’s doing us proud. All the public need to do now is put a plastic card in a machine and pay out, because it doesn’t even feel like money. The Idiocy of our nation can not only keep us fully stocked with rubbish they don’t need sold at prices they can’t afford, but it allows us to really ramp it up every few months.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER is outside an ESTATE AGENT pointing at advertisements, with flashes of HOUSES.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And of course, the beleaguered housing market. For years, gullible buyers have pushed the value of buildings made of bricks and wood to the price of expensive </Text>
+      <Text Size="12">ming</Text>
+      <Text> vases or millionaire yachts. Thanks to mortgage-lenders almost comatose with excitement over the flood of imbeciles willing to pay ten times the price than twenty years ago, the industry has flourished.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="18">
+      <SceneProperties Length="1 3/8" Page="18" Title=""/>
+      <Text>INT. TRENDY OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A pretentious AD EXEC walks around chiding EMPLOYEES, being painfully “cool”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every industry has it’s role, and along with estate agents, ministers and </Text>
+      <Text Size="12">non-thinking</Text>
+      <Text> tanks see the advertising sector as an obvious driver of reform, considering their incredible track record in encouraging other businesses to talk using meaningless buzzwords that are incomprehensible to anyone but those who speak in half-baked abstraction as their lingua </Text>
+      <Text Size="12">franca</Text>
+      <Text>. The creators’ of the government’s new campaign, </Text>
+      <Text Size="12">GHWR</Text>
+      <Text> Creative, say they expect their profits to hit record levels.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ON-SCREEN TITLE READS “</Text>
+      <Text Size="12">ZACK</Text>
+      <Text> HILTON, </Text>
+      <Text Size="12">GHWR</Text>
+      <Text> CREATIVE”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HILTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Our job’s a lot easy if we have a blank palette to work with in the first place, and the stupider people are, the more effective our own campaigns are, and the more rubbish they buy. Low </Text>
+      <Text Size="12">IQ</Text>
+      <Text> means profit, and we’re always truthful about everything. Most agencies work on five hooks: sexy, cute, frightening and so on. As long as Joe Public stubbornly maintain the capacity of an infant school pupil, we’ll be able to be a key contributor to our nation’s economy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hilton says he see social networking as a powerful encourager of stupidity that ministers need to pay special attention to.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>EMPLOYEES look at SOCIAL SITES full of ATTENTION SEEKERS.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HILTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Social networking has really helped dumb people come together into groups so they can act out their hidden idiot, and help others to be even more embarrassingly moronic in ways they couldn’t have before. Online is a powerful new way for angst-ridden teenagers, pretentious attention-seeking drama queens and semi-psychotic narcissists to be a living example of stupidity for everyone else to follow. Not to mention a great way to give away your money to </Text>
+      <Text Size="12">fraudsters</Text>
+      <Text>, anonymously post inane abuse masquerading as serious insight, and bringing bullying out of the classroom to a worldwide audience. I can’t imagine a more powerful way to spread that amazing new message we’re aspiring towards than interconnecting it across electronics devices twenty-four hours a day.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="19">
+      <SceneProperties Length="5/8" Page="19" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Living - parents teaching kids, talent show voting</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. FAMILY LIVING ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A FAMILY sits in a living room together watching a REALITY TV TALENT SHOW: MUM, DAD, SON and DAUGHTER.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But it’s going to be in the family that battle for hearts and minds will really be won, with the help of the media, and parents really increasing their efforts to keep children ignorant, and indoctrinated with their indignant parents’ prejudices and lack of enthusiasm for anything more substantial than junk food, junk TV and junk conversation disguising itself as thought. </Text>
+      <Text Size="12">Non-think</Text>
+      <Text> tanks say parents should take less responsibility for their children’s personal growth and show an example by encouraging more time on mindlessly violent video games, less encouragement of critical thinking, and a lot more senseless obedience to authority so their children don’t grow up thinking they have to work harder to fit in to a banal </Text>
+      <Text Size="12">9to5</Text>
+      <Text> life working hours for someone else.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="20">
+      <SceneProperties Length="7/8" Page="20" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Judges as reole models</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. CROWN COURT CHAMBERS - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>JUDGES march along in their WIGS and GOWNS.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Politicians are looking to judicial officials to set the tone for society, and cite their uncompromising ignorance of modern culture and incredible stupidity rulings as the standard they want everything else to be measured by. Our legal correspondent has more.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A LEGAL REPORTER stands in front of a COURT.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LEGAL REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For years, Judges have been under-valued in our fight to the bottom. With their extraordinary clothing, indifference to current affairs and the lives of the ordinary public, and of course stubborn resistance to any form of change, the judiciary has worked tirelessly towards bringing the establishment closer to the edge than even the civil service mandarins themselves. Ruling after incomprehensible ruling in case after case, made contrary to any known common sense or applicable reason, in the face of public disbelief, is finally to be rewarded by the government. The nation’s judges are unassuming and modest role models for a generation committed to defying any form of improvement as it reverts to way below the mean. These eccentric old grandfathers - perverts in wigs - just may hold the key to a society that desperately needs the social boost that their rulings have been relying on for centuries.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="21">
+      <SceneProperties Length="1 7/8" Page="21" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Voxpops</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>EXT. LOCAL STREETS (VOXPOPS) - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PEOPLE mill around the roads and SHOPS going about their lives.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But what the public make of all these changes? What do the ordinary people on the street think about the governments proposals? Do they even know about them? Do they particularly care? Do they even need the extra encouragement to be stupider?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PEOPLE are doing VOXPOPS. First, a MAN.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well </Text>
+      <Text Size="12">i</Text>
+      <Text> don’t want to get involved really.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But what about things that are right and wrong?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry, it’s not my business. I don’t want to get involved in all that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What would make you get involved?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, you know, if something happened to me, </Text>
+      <Text Size="12">i</Text>
+      <Text> guess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about what may happen to you because you didn’t get involved?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t really want to get involved, to be honest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Second, a WOMAN.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well </Text>
+      <Text Size="12">i</Text>
+      <Text> just think everyone should be allowed to do what they want really, as long as it harms no-one else. Live and let live. Everyone should tolerate everyone else, not judge them. What someone does in their home is none of anyone else’s business. If it works for you, go for it. I think it’s about tolerance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I see. Should we tolerate paedophilia?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Blank)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Err...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Should we tolerate racism? What about intolerance? Should we tolerate that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well... come on. Everyone has a right to do what they want.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, you think we should all tolerate everything, apart from the things we shouldn’t tolerate?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lastly, THREE CHILDREN.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILD A</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, </Text>
+      <Text Size="12">i</Text>
+      <Text> think it’s important to be stupid because you don’t have to think as much. It’s cool.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILD B</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, you don’t have to worry about things, or work things out. You don’t get tired as much.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHILD C</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We have lots of stupid people in their class, and our teacher says it’s because their parents are stupid.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="22">
+      <SceneProperties Length="2/8" Page="23" Title=""/>
+      <Text>EXT. UNIVERSITY LECTURE HALL - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER stands outside PEOPLE PROTESTING with PLACARDS with anti-intelligence slogans, such as “KEEP UNIVERSITY </Text>
+      <Text Size="12">IQ-FREE</Text>
+      <Text>”, “PROFESSORS AND TEACHERS OUT”, “THINKING IS CANCER”.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pro-intelligence groups say they are becoming more and more concerned about the persecution of people that think, with those in the academic and educational worlds coming under increasing pressure to retire before they are forced to take mandatory redundancy.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="23">
+      <SceneProperties Length="7/8" Page="23" Title=""/>
+      <Text>INT. UNIVERSITY LECTURE HALL - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A PROFESSOR and his team are PELTED and INSULTED by their AUDIENCE as the REPORTER talks to the camera as if it were a war-zone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Loudly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Up and down the country, lecturers, researchers and academics say they need security protection, and are lobbying the government to have daytime TV talk shows on campus reduced to seven hours a day. Their opponents say they are just resisting change, and are slowing down the country’s progress towards becoming a clone state of indebted retail customers who are no longer in need of politics or the process of critical thought.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A PROTESTOR is being interviewed as the MOB with them get worse and worse, TEARING TEXTBOOKS and DRINKING.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTESTOR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m at university to sleep around, drink every day and get a mindless nine to five job in the city, not listen to this archaic crap about being an individual, or thinking about things. All my friends are sliding down the social ladder into apathy and indifference, and it’s not fair we’re being oppressed like this and forced to learn things and work stuff out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTESTOR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It took me ten years to get this retarded, and </Text>
+      <Text Size="12">i</Text>
+      <Text> don’t want some smart guy coming along and ruining it with his talk about common sense, rationality, evolution, spirituality or intelligence. They’re an embarrassment and </Text>
+      <Text Size="12">i</Text>
+      <Text> want to see them all killed with the death penalty.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="24">
+      <SceneProperties Length="1 1/8" Page="24" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>Safety quango, product warnings</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. SAFETY QUANGO OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A CIVIL SERVICE MANDARIN arranges a desk and adorns boxes of paperwork.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Critics argue that the drive to senseless insignificance for the average person could lead to a surge in household accidents and compensation claims. Despite the obvious advantages to legal staff representing claimants too stupid to know any better, legislators say they are taking the issue very seriously indeed, and intend to regulate product labelling further to minimise the risk to the public.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CIVIL SERVICE MANDARIN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Holding a coffee)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, take this cup of coffee for example. How is anyone supposed to know that the water is hot? That’s why we’ve signed it into law that companies have to provide clear guidance on dangerous products, like water. We’re working hard to make sure people don’t fall victim to common problems that anyone with an </Text>
+      <Text Size="12">IQ</Text>
+      <Text> over twenty five and an ounce of common sense may find easy, but the average witless idiot may be deeply challenged by. At the moment, companies hold an extreme anti-stupidity prejudice, and that won’t do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what kinds of warnings are the government intending to issue?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CIVIL SERVICE MANDARIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, a good example is this chainsaw, which must have a warning not be used internally. Advice about not spraying deodorant into your eyes. Not eating printer ink, or using wheelbarrows on the motorway. Not using toilet brushes orally. The possible risks are endless. That’s why this government is doing all it can to protect people going through this change to a brainless moronic nation of retards who just want to watch sing contests, post illiterately on the Internet, and drink themselves into a coma every Friday.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="25">
+      <SceneProperties Length="6/8" Page="25" Title="">
+        <Summary>
+          <Paragraph>
+            <Text>breeding licences, voting IQ</Text>
+          </Paragraph>
+        </Summary>
+      </SceneProperties>
+      <Text>INT. PARTY POLITICAL OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The REPORTER stands in front of POLITICAL STAFF busying themselves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>REPORTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And it won’t just end with a campaign. Ministers say they want to reduce thinking levels by fifty per cent within twenty years, which will in turn enable them to introduce even more laws with less resistance, as well as appoint more stupid people into positions of responsibility. Supporters say they’re not going far enough. Many </Text>
+      <Text Size="12">MPs</Text>
+      <Text> want to see voting being subject to a compulsory </Text>
+      <Text Size="12">IQ</Text>
+      <Text> test, and childbearing only possible with a breeding licence. The government says it will consult think tanks and leading experts on its plans to create a new offence of “displaying intelligent behaviour in public”, as well as plans for so-called </Text>
+      <Text Size="12">OIBOs</Text>
+      <Text>, or “offensively intelligent behaviour orders” to limit the public contact with materials that could advance them intellectually, spiritually, emotionally or financially. They say that for now, they are content for the private sector is doing all that it can to lower standards as far as the civil service has, and will provide as much support as it can so to reach as many people as possible with the message that stupidity’s not just cool, but that it’s smart to be dumb. Back to you in the studio.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="26">
+      <SceneProperties Length="3/8" Page="26" Title=""/>
+      <Text>INT. TV NEWS STUDIO - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A STUDIO PRESENTER sits behind a desk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>STUDIO PRESENTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>More on that story as it develops. Now, in other news, after the amazing announcement last week that the Pope is a Catholic, a group of hunters claim to have discovered bears defecating in the woods.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>FADE TO BLACK:</Text>
+    </Paragraph>
+    <Paragraph Type="General" Alignment="Left"/>
+    <Paragraph Type="General" Alignment="Center">
+      <Text>THE END</Text>
+    </Paragraph>
+  </Content>
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" BottomMargin="72" BreakDialogueAndActionAtSentences="True" UsesSmartQuotes="No">
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="No" CastListElement="Cast List"/>
+  </PageLayout>
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style=""/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style="AllCaps"/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style=""/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style="AllCaps"/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style=""/>
+    <ParagraphSpec FirstIndent="-0.10" Leading="Regular" Alignment="Left" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style=""/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style="AllCaps"/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Right" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style="AllCaps"/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" RevisionID="0" Font="Courier Final Draft" Size="12" Style="AllCaps"/>
+    <ParagraphSpec FirstIndent="0.00" Leading="Regular" Alignment="Left" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00">
+        <Text Size="12" Style="Underline">NATIONAL STUPIDITY: A NEW BRITISH INITIATIVE</Text>
+      </Paragraph>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00">
+        <Text Size="12">Written by</Text>
+      </Paragraph>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00">
+        <Text Size="12">ALEX CAMERON</Text>
+      </Paragraph>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" Alignment="Center" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00"/>
+      <Paragraph Type="General" Alignment="Left" RightIndent="7.50" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" LeftIndent="1.00">
+        <Text Size="12">ac@azcameron.co.uk</Text>
+      </Paragraph>
+      <Paragraph Type="General" Alignment="Left" SpaceBefore="0" Spacing="1.0" StartsNewPage="No" RightIndent="7.26" LeftIndent="1.00">
+        <Text Size="12">+44 (0)7575 009981</Text>
+      </Paragraph>
+    </Content>
+  </TitlePage>
+  <ScriptNoteDefinitions Active="1">
+    <ScriptNoteDefinition Color="#000000000000" ID="1" Marker="!" Name="Important"/>
+    <ScriptNoteDefinition Color="#000000000000" ID="2" Marker="?" Name="Information"/>
+    <ScriptNoteDefinition Color="#000000000000" ID="3" Marker="*" Name="Suggestion"/>
+  </ScriptNoteDefinitions>
+  <SmartType>
+    <Characters>
+      <Character>STUDIO PRESENTER</Character>
+      <Character>NARRATOR</Character>
+      <Character>CHARITY OFFICER</Character>
+      <Character>REPORTER</Character>
+      <Character>HALL</Character>
+      <Character>JOHNSON</Character>
+      <Character>NICHOLLS</Character>
+      <Character>WHackjob</Character>
+      <Character>SILVER</Character>
+      <Character>GARDINER</Character>
+      <Character>TEACHER</Character>
+      <Character>CHILDREN</Character>
+      <Character>CITY EMPLOYEE</Character>
+      <Character>LAMBERT</Character>
+      <Character>VOTER</Character>
+      <Character>ASTROLOGER</Character>
+      <Character>PATIENT</Character>
+      <Character>NURSE</Character>
+      <Character>BRADSHAW</Character>
+      <Character>ALLEN</Character>
+      <Character>HILTON</Character>
+      <Character>LEGAL REPORTER</Character>
+      <Character>MAN</Character>
+      <Character>WOMAN</Character>
+      <Character>CHILD A</Character>
+      <Character>CHILD B</Character>
+      <Character>CHILD C</Character>
+      <Character>PROTESTOR</Character>
+      <Character>CIVIL SERVICE MANDARIN</Character>
+      <Character>POLITICIAN</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TOGETHER)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>TV NEWS STUDIO</Location>
+      <Location>PARLIAMENT SQUARE</Location>
+      <Location>MENTAL CHARITY OFFICE</Location>
+      <Location>JUNIOR CLASSROOM</Location>
+      <Location>SUBURBAN HOUSE DOORSTEP</Location>
+      <Location>SCHOOL HALLWAYS</Location>
+      <Location>POLLING STATION</Location>
+      <Location>NEW AGE HEALING CENTRE</Location>
+      <Location>CELEBRITY RED CARPET EVENT</Location>
+      <Location>LONDON CITY OFFICE PRECINCT</Location>
+      <Location>CHEAP PUB</Location>
+      <Location>RECORDING STUDIO</Location>
+      <Location>FAMILY LIVING ROOM</Location>
+      <Location>UNIVERSITY LECTURE HALL</Location>
+      <Location>CROWN COURT CHAMBERS</Location>
+      <Location>TV STUDIO GALLERY</Location>
+      <Location>SHOPPING MALL</Location>
+      <Location>SAFETY QUANGO OFFICE</Location>
+      <Location>LOCAL STREETS (VOXPOPS)</Location>
+      <Location>SHIPPING PORT</Location>
+      <Location>PARTY POLITICAL OFFICE</Location>
+      <Location>CATHOLIC CHURCH</Location>
+      <Location>TRENDY OFFICE</Location>
+      <Location>POLITICAL EVENT VENUE</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" TopOfNext="Yes" DialogueBottom="(MORE)" DialogueTop="(cont'd)"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottomOfPage="No" SceneTopOfNext="No" SceneBottom="(CONTINUED)" SceneTop="CONTINUED:"/>
+  </MoresAndContinueds>
+  <LockedPages/>
+  <Revisions Location="7.75" ActiveSet="4" RevisionMode="Yes" RevisionsShown="All" ShowAllMarks="All" ShowAllSets="All">
+    <Revision Color="#00000000FFFF" ID="1" Mark="*" Name="Blue (mm/dd/yyyy)" PageColor="#B5B5E9E9FFFF" Style=""/>
+    <Revision Color="#FFFF0000FFFF" ID="2" Mark="*" Name="Pink (mm/dd/yyyy)" PageColor="#FFFFC0C0CACA" Style=""/>
+    <Revision Color="#A0A0A0A00000" ID="3" Mark="*" Name="Yellow (mm/dd/yyyy)" PageColor="#FFFFFFFF9999" Style=""/>
+    <Revision Color="#000080800000" ID="4" Mark="*" Name="Green (mm/dd/yyyy)" PageColor="#C5C5FFFFC5C5" Style=""/>
+    <Revision Color="#CCCC7F7F3232" ID="5" Mark="*" Name="Goldenrod (mm/dd/yyyy)" PageColor="#FFFFC1C12525" Style=""/>
+    <Revision Color="#8E8E6B6B2323" ID="6" Mark="*" Name="Buff (mm/dd/yyyy)" PageColor="#FFFFE9E98A8A" Style=""/>
+    <Revision Color="#A7A742424242" ID="7" Mark="*" Name="Salmon (mm/dd/yyyy)" PageColor="#FFFF9191A4A4" Style=""/>
+    <Revision Color="#D5D523236B6B" ID="8" Mark="*" Name="Cherry (mm/dd/yyyy)" PageColor="#FFFFB6B6C9C9" Style=""/>
+    <Revision Color="#DBDB93937070" ID="9" Mark="*" Name="Tan (mm/dd/yyyy)" PageColor="#FFFFEDEDBABA" Style=""/>
+    <Revision Color="#000000000000" ID="10" Mark="*" Name="2nd White (mm/dd/yyyy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#00000000FFFF" ID="11" Mark="*" Name="2nd Blue (mm/dd/yyyy)" PageColor="#B5B5E9E9FFFF" Style=""/>
+    <Revision Color="#FFFF0000FFFF" ID="12" Mark="*" Name="2nd Pink (mm/dd/yyyy)" PageColor="#FFFFC0C0CACA" Style=""/>
+    <Revision Color="#A0A0A0A00000" ID="13" Mark="*" Name="2nd Yellow (mm/dd/yyyy)" PageColor="#FFFFFFFF9999" Style=""/>
+    <Revision Color="#000080800000" ID="14" Mark="*" Name="2nd Green (mm/dd/yyyy)" PageColor="#C5C5FFFFC5C5" Style=""/>
+    <Revision Color="#CCCC7F7F3232" ID="15" Mark="*" Name="2nd Goldenrod (mm/dd/yyyy)" PageColor="#FFFFC1C12525" Style=""/>
+    <Revision Color="#8E8E6B6B2323" ID="16" Mark="*" Name="2nd Buff (mm/dd/yyyy)" PageColor="#FFFFE9E98A8A" Style=""/>
+    <Revision Color="#A7A742424242" ID="17" Mark="*" Name="2nd Salmon (mm/dd/yyyy)" PageColor="#FFFF9191A4A4" Style=""/>
+    <Revision Color="#D5D523236B6B" ID="18" Mark="*" Name="2nd Cherry (mm/dd/yyyy)" PageColor="#FFFFB6B6C9C9" Style=""/>
+    <Revision Color="#DBDB93937070" ID="19" Mark="*" Name="2nd Tan (mm/dd/yyyy)" PageColor="#FFFFEDEDBABA" Style=""/>
+  </Revisions>
+  <DeletedText/>
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="637">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="STUDIO PRESENTER"/>
+    <Member Actor="Man 1" Character="NARRATOR"/>
+    <Member Actor="Man 1" Character="CHARITY OFFICER"/>
+    <Member Actor="Man 1" Character="REPORTER"/>
+    <Member Actor="Man 1" Character="HALL"/>
+    <Member Actor="Man 1" Character="JOHNSON"/>
+    <Member Actor="Man 1" Character="NICHOLLS"/>
+    <Member Actor="Man 1" Character="WHackjob"/>
+    <Member Actor="Man 1" Character="SILVER"/>
+    <Member Actor="Man 1" Character="GARDINER"/>
+    <Member Actor="Man 1" Character="TEACHER"/>
+    <Member Actor="Man 1" Character="CHILDREN"/>
+    <Member Actor="Man 1" Character="CITY EMPLOYEE"/>
+    <Member Actor="Man 1" Character="LAMBERT"/>
+    <Member Actor="Man 1" Character="VOTER"/>
+    <Member Actor="Man 1" Character="ASTROLOGER"/>
+    <Member Actor="Man 1" Character="PATIENT"/>
+    <Member Actor="Man 1" Character="NURSE"/>
+    <Member Actor="Man 1" Character="BRADSHAW"/>
+    <Member Actor="Man 1" Character="ALLEN"/>
+    <Member Actor="Man 1" Character="HILTON"/>
+    <Member Actor="Man 1" Character="LEGAL REPORTER"/>
+    <Member Actor="Man 1" Character="MAN"/>
+    <Member Actor="Man 1" Character="WOMAN"/>
+    <Member Actor="Man 1" Character="CHILD A"/>
+    <Member Actor="Man 1" Character="CHILD B"/>
+    <Member Actor="Man 1" Character="CHILD C"/>
+    <Member Actor="Man 1" Character="PROTESTOR"/>
+    <Member Actor="Man 1" Character="CIVIL SERVICE MANDARIN"/>
+    <Member Actor="Man 1" Character="POLITICIAN"/>
+  </Cast>
+  <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+</FinalDraft>

@@ -1,0 +1,56 @@
+{
+    "name": "laravel-zero/laravel-zero",
+    "description": "The Laravel Zero Framework.",
+    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
+    "homepage": "https://laravel-zero.com",
+    "type": "project",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
+        "source": "https://github.com/laravel-zero/laravel-zero"
+    },
+    "authors": [
+        {
+            "name": "Nuno Maduro",
+            "email": "enunomaduro@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "ext-json": "*",
+        "ext-xml": "*",
+        "ext-zip": "*",
+        "composer/spdx-licenses": "^1.5",
+        "guzzlehttp/guzzle": "^6.5.5",
+        "illuminate/http": "^8.0",
+        "illuminate/log": "^8.0",
+        "laminas/laminas-text": "^2.8",
+        "laravel-zero/framework": "^8.4",
+        "ozdemirburak/iris": "^2.3",
+        "padraic/phar-updater": "^1.0.6",
+        "titasgailius/terminal": "^0.5.0",
+        "webpatser/laravel-uuid": "^3.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.4.2",
+        "pestphp/pest": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "bin": ["screenjson"]
+}
